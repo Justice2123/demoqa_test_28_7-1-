@@ -7,7 +7,7 @@ import pages.components.ModalWindow;
 import utils.TestData;
 
 
-public class SimpleTestWithPageObject extends TestBase {
+public class PageObjectSimpleTest extends TestBase {
 
     RegistrationPage registrationPage = new RegistrationPage();
     ModalWindow modalWindow = new ModalWindow();
